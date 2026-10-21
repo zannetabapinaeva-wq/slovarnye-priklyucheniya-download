@@ -1,2 +1,17 @@
-# slovarnye-priklyucheniya-download
-Скачать Android APK приложения «Словарные приключения»
+# Словарные приключения
+
+Образовательное приложение для детей 7–9 лет: семь игр, 93 словарные записи, русская озвучка, словарик и награды.
+
+## Скачать приложение
+
+**[Скачать APK для Android](https://github.com/zannetabapinaeva-wq/slovarnye-priklyucheniya-download/releases/download/v1.0.0-preview.1/Slovarnye-priklyucheniya.apk)** · 37,54 МБ
+
+[Страница релиза](https://github.com/zannetabapinaeva-wq/slovarnye-priklyucheniya-download/releases/tag/v1.0.0-preview.1)
+
+Скачивание общедоступно и не требует входа в GitHub. Для Android 7.0 и новее. После загрузки откройте APK на телефоне и следуйте указаниям Android по установке.
+
+Игровой код включён в APK, Expo Go и компьютер для запуска не нужны. Для озвучки без интернета заранее загрузите русский системный голос. Музыки и рекламы нет.
+
+Это пробная сборка, подписанная тестовым ключом. 25 автоматических проверок пройдены; проверка на физических телефонах ещё не выполнена.
+
+SHA-256: `d09d22acfa96019bdffde9f2953d7271d0d7db6d4a4d79dce4531246ab811e28`.
